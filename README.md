@@ -61,3 +61,7 @@ The application features a responsive design that enhances user experience. Key 
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-repo/coffee-shop-ordering-app.git
+
+
+   ![image](https://github.com/user-attachments/assets/55fb5200-00dc-4f9c-9383-13654d939d46)
+
