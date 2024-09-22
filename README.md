@@ -64,5 +64,19 @@ The application features a responsive design that enhances user experience. Key 
 
 
 ![image](https://github.com/user-attachments/assets/bce5abf8-4d2e-4f0f-9941-fb0d28aa8bd7)
+![image](https://github.com/user-attachments/assets/5f66831f-81bf-4143-bf96-e964b78d6218)
+![image](https://github.com/user-attachments/assets/c81e9314-652e-4ca9-b840-534d5662796d)
+## Admin panel
+![image](https://github.com/user-attachments/assets/98c244bc-6079-4a0c-9da8-32a679e4e258)
+![image](https://github.com/user-attachments/assets/cf75ae21-5b55-44b1-af07-eef49443506e)
+![image](https://github.com/user-attachments/assets/617e85c8-07e7-4fd0-b023-533d58dd8848)
+![image](https://github.com/user-attachments/assets/1c58a0cf-4087-40e2-ae10-696855c70c7b)
+![image](https://github.com/user-attachments/assets/f9df0e2f-9b9e-478e-b777-f2ae3b6ae25b)
+![image](https://github.com/user-attachments/assets/4c043934-f312-44b2-ab48-612c1b46d5fa)
+## user panel
+![image](https://github.com/user-attachments/assets/7db41786-9d74-4e98-b1a4-d5f77b5114df)
+## Employee panel
+![image](https://github.com/user-attachments/assets/a02f9605-e416-4871-97f8-390a4c4b640a)
+![image](https://github.com/user-attachments/assets/26fc86b1-20b0-44e6-90f0-4b0461a14ea3)
 
 
