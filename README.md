@@ -1,71 +1,52 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-"# cafe_management" 
+Coffee Shop Ordering Application 
+Introduction: 
+The Coffee Shop Ordering Application facilitates Admin and user in placing and tracking their orders 
+efficiently. The system is designed to cater to the needs of coffee shop customers, allowing them to 
+seamlessly navigate through the menu, place orders, and monitor the progress of their orders. The 
+application encompasses three distinct user roles, each endowed with specific privileges: 
+ADMIN 
+EMPLOYEE 
+USER 
+Features: 
+Unregistered Users 
+ Register an account 
+ Browse the coffee shop menu 
+ Select meal types  
+ Add items to the cart 
+ Confirm orders with address and phone number 
+Registered Users (USER) 
+ Update personal information 
+ Order food with a 10% discount 
+ View active orders (ORDERED and IN PREPARATION) 
+ Access order history (IN DELIVERY) 
+Employees (EMPLOYEE) 
+ Review incoming orders 
+ Update order status (IN PREPARATION or IN DELIVERY) 
+ Access order history 
+Administrators (ADMIN) 
+ Manage meal types (create, delete, update) 
+ Manage meals (create, delete, update) 
+ Manage users (logically delete) 
+ View active orders 
+ Delete orders and associated items 
+ Access order history 
+ Manage employee data 
+Application UI Preview 
+The application boasts a fully responsive design, ensuring a seamless experience for users during order 
+placement. Here's a glimpse of the UI: 
+ Users select a category to view available offers. 
+ Users add items to the cart after specifying quantity. 
+ Confirmation of orders requires address and phone number. 
+ Validation ensures correct phone number input. 
+ Registered users enjoy a 10% discount. 
+ Logged-in users' details are automatically populated. 
+ User profiles allow for profile and password management. 
+ Change password functionality includes old password verification. 
+ Alerts for existing usernames and emails during registration. 
+Additional Information 
+ Employees can manage order statuses, while administrators have broader control over order 
+management. 
+ All orders move to order history after delivery. 
+ Login component initiates when the app starts. 
+With these features and functionalities, the Coffee Shop Ordering Application ensures a smooth and 
+convenient experience for both customers and staff members. 
